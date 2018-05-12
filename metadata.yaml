@@ -1,10 +1,16 @@
 _repo: Railroads-Rates-and-Regulations_47831
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47831-h/images/cover.jpg
 creator:
   author:
     agent_name: Ripley, William Z.
     gutenberg_agent_id: '44487'
     url: http://www.gutenberg.org/2009/agents/44487
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47831#Railroads-Rates-and-Regulations
 gutenberg_issued: '2014-12-31'
 gutenberg_type: Text
 identifiers:
